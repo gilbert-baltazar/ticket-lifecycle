@@ -26,18 +26,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 
-<img width="852" alt="Screen Shot 2024-05-19 at 5 07 48 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/533c7f9a-e421-4a0b-9932-c457e59b9675">
+![Screenshot 2024-09-03 at 9 11 48 PM](https://github.com/user-attachments/assets/8dcb6d3e-8bbd-4b17-9e6f-f0a6749c3c6e)
 
 On your browser, go to http://localhost/osticket/
  - Create a couple of tickets as an external user
 
-<img width="1600" alt="Screen Shot 2024-05-19 at 5 18 48 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/7c48db5c-2da2-4885-9858-9b78d4acb921">
 
+![Screenshot 2024-09-03 at 9 24 42 PM](https://github.com/user-attachments/assets/a1005f91-85ba-4462-8d15-fe4137dfdf10)
 
 Logout from osTicket and log back in as an Agent
 
+![Screenshot 2024-09-03 at 9 42 13 PM](https://github.com/user-attachments/assets/43ecc43c-06ea-430f-9b32-b0e91eea6cea)
 
-<img width="1202" alt="Screen Shot 2024-05-19 at 5 28 18 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/79e0e166-7823-4a36-8487-3bb251217838">
 
 Open one of the tickets
  - Make sure the settings on the tickets are proper
