@@ -14,7 +14,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -46,14 +46,14 @@ Open one of the tickets
  - Post a Reply
 
 
-<img width="1097" alt="Screen Shot 2024-05-19 at 5 35 13 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/501b7544-d2bf-4ef3-84a9-864e6dc2dfa6">
+![Screenshot 2024-09-04 at 7 07 53 PM](https://github.com/user-attachments/assets/5a42e36b-b445-4b22-ace1-ca7acc2d7c2a)
 
 When the ticke has been resolved
  - Post another reply letting them know the issue has been resolved
  - Change the ticket Status from "Open" to "Resolved"
 
 
-<img width="1165" alt="Screen Shot 2024-05-19 at 5 40 42 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/01d279f1-a72b-4ea5-9fd8-575cbe1e4439">
+![Screenshot 2024-09-04 at 7 14 33 PM](https://github.com/user-attachments/assets/f74ce62e-3e7a-4446-bf82-128a9cb7a0f7)
 
 
 Back on Open osTickets
@@ -61,15 +61,15 @@ Back on Open osTickets
 
 
 
-<img width="968" alt="Screen Shot 2024-05-19 at 5 45 41 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/06152750-be21-42c8-8236-0b317a0d5f41">
+![Screenshot 2024-09-04 at 7 19 09 PM](https://github.com/user-attachments/assets/b47ddfb2-df3d-45e1-bada-09703a426e5b)
 
 
 Like the last ticket, make sure the settings are set properly 
  - Assign to a different agent this time
 
 
-<img width="993" alt="Screen Shot 2024-05-19 at 5 54 19 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/59d150b5-616c-49cc-a10f-e88db6d6aaa1">
-<img width="1346" alt="Screen Shot 2024-05-19 at 6 05 03 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/6d703cd4-f9c0-4d2a-b2e5-72833eddfe1a">
+![Screenshot 2024-09-04 at 7 30 38 PM](https://github.com/user-attachments/assets/bbceeac3-e03b-43ae-b9c0-0c3f2d654e3e)
+![Screenshot 2024-09-04 at 7 37 08 PM](https://github.com/user-attachments/assets/afd43a49-2e0b-4033-99f8-70d5fd601df6)
 
 
 For the last ticket
@@ -77,7 +77,7 @@ For the last ticket
  - Make sure all the settings are set properly
  - close the ticket letting them know it has been resolved
 
-<img width="1129" alt="Screen Shot 2024-05-19 at 6 07 58 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/9f50a08e-b8be-4661-925b-d62a39300a39">
+![Screenshot 2024-09-04 at 7 41 41 PM](https://github.com/user-attachments/assets/88980c2c-bf69-4bff-bf53-7c988f1ea1e8)
 
 When all the tickets are done, this is how the open ticket page should be.
 
